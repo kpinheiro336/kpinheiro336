@@ -38,5 +38,4 @@ Actualmente orientado al desarrollo de software con base en Java y Python, desta
 
 ---
 
-### Gracias por visitar mi perfil
-Estoy construyendo mi camino en el sector tecnológico con compromiso, disciplina y motivación por aprender cada día.
+
