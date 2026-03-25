@@ -2,7 +2,7 @@
 
 Estudiante de FP en Desarrollo de Aplicaciones Multiplataforma (DAM), con formación en Python y conocimientos en Data Analytics, Power BI e IA.
 Actualmente orientado al desarrollo de software con base en Java y Python, destacando por un enfoque profesional, aprendizaje continuo y mejora constante de habilidades técnicas.
----
+
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -14,7 +14,7 @@ Actualmente orientado al desarrollo de software con base en Java y Python, desta
 - **IA (uso práctico):** Google AI Studio, Microsoft Copilot, GitHub Copilot, Claude  
 - **Otros:** Git, GitHub, entornos de desarrollo y aprendizaje continuo  
 
----
+
 
 ## 🚀 Proyectos destacados
 *(Aquí podrás añadir tus proyectos cuando los tengas listos. Te dejo la estructura para que solo completes.)*
@@ -22,7 +22,7 @@ Actualmente orientado al desarrollo de software con base en Java y Python, desta
 - **Nombre del proyecto** — Breve descripción del objetivo y tecnologías utilizadas.  
 - **Nombre del proyecto** — Breve descripción del objetivo y tecnologías utilizadas.  
 
----
+
 
 ## 🎯 Enfoque actual
 - Formación continua en **DAM**  
@@ -30,12 +30,12 @@ Actualmente orientado al desarrollo de software con base en Java y Python, desta
 - Consolidación de bases en **Python** y desarrollo de software  
 - Interés en **inteligencia artificial** y su aplicación práctica  
 
----
+
 
 ## 📫 Contacto
 - **LinkedIn:** *(añade tu enlace)*  
 - **Email:** *(tu correo profesional)*  
 
----
+
 
 
