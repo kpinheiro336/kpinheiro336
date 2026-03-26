@@ -17,9 +17,8 @@ Actualmente orientado al desarrollo de software con base en Java y Python, desta
 
 
 ## 🚀 Proyectos destacados
-*(Aquí podrás añadir tus proyectos cuando los tengas listos. Te dejo la estructura para que solo completes.)*
 
-- **Nombre del proyecto** — Breve descripción del objetivo y tecnologías utilizadas.  
+- **[analisis-ventas-python](https://github.com/kpinheiro336/analisis-ventas-python)** — Análisis y predicción de ventas minoristas en Python. Incluye estadísticas descriptivas, visualización de tendencias, normalización con NumPy y modelo de regresión lineal con Scikit-learn. `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`  
 - **Nombre del proyecto** — Breve descripción del objetivo y tecnologías utilizadas.  
 
 
@@ -33,8 +32,8 @@ Actualmente orientado al desarrollo de software con base en Java y Python, desta
 
 
 ## 📫 Contacto
-- **LinkedIn:** *(añade tu enlace)*  
-- **Email:** *(tu correo profesional)*  
+- **LinkedIn:** *www.linkedin.com/in/kevin-pinheiro-80796568*  
+- **Email:** *kapb_es@hotmail.com*  
 
 
 
