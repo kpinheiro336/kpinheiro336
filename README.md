@@ -19,7 +19,7 @@ Actualmente orientado al desarrollo de software con base en Java y Python, desta
 ## 🚀 Proyectos destacados
 
 - **[analisis-ventas-python](https://github.com/kpinheiro336/analisis-ventas-python)** — Análisis y predicción de ventas minoristas en Python. Incluye estadísticas descriptivas, visualización de tendencias, normalización con NumPy y modelo de regresión lineal con Scikit-learn. `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`  
-- **Nombre del proyecto** — Breve descripción del objetivo y tecnologías utilizadas.  
+- [**proyecto_Django_Blog**](https://github.com/kpinheiro336/proyecto_Django_Blog) — Blog para una librería independiente desarrollado con Django. Incluye panel de administración personalizado, diseño responsive y plantillas con tema visual propio. `Python` `Django` `SQLite` `HTML` `CSS`
 
 
 
