@@ -20,7 +20,7 @@ Actualmente orientado al desarrollo de software con base en Java y Python, desta
 
 - **[analisis-ventas-python](https://github.com/kpinheiro336/analisis-ventas-python)** — Análisis y predicción de ventas minoristas en Python. Incluye estadísticas descriptivas, visualización de tendencias, normalización con NumPy y modelo de regresión lineal con Scikit-learn. `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`  
 - [**proyecto-Django-blog**](https://github.com/kpinheiro336/proyecto-Django-blog) — Blog para una librería independiente desarrollado con Django. Incluye panel de administración personalizado, diseño responsive y plantillas con tema visual propio. `Python` `Django` `SQLite` `HTML` `CSS`
-- [**proyecto-Flask**](https://github.com/kpinheiro336/proyecto-Flask) — Panel de administración de usuarios desarrollado con Flask y SQLAlchemy. Incluye CRUD completo, validaciones robustas en backend, contraseñas con hash seguro, importación/exportación JSON y detección automática de país por prefijo telefónico. Python Flask SQLAlchemy SQLite HTML CSS
+- [**proyecto-Flask**](https://github.com/kpinheiro336/proyecto-Flask) — Panel de administración de usuarios desarrollado con Flask y SQLAlchemy. Incluye CRUD completo, validaciones robustas en backend, contraseñas con hash seguro, importación/exportación JSON y detección automática de país por prefijo telefónico. `Python` `Flask` `SQLAlchemy` `SQLite` `HTML` `CSS`
 
 
 ## 🎯 Enfoque actual
